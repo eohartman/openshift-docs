@@ -250,9 +250,7 @@
 - dl1.24xlarge  (96 vCPU, 768 GiB)&#8224;
 
 
-&#8224; Intel specific; not covered by Nvidia
-
-Support for the GPU instance type software stack is provided by AWS. Ensure that your AWS service quotas can accommodate the desired GPU instance types.
+&#8224; Intel specific, and not covered by Nvidia)
 ====
 .Compute optimized
 [%collapsible]
