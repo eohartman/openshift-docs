@@ -563,6 +563,8 @@ Topics:
     File: rosa-nodes-about-autoscaling-nodes
   - Name: Configuring cluster memory to meet container memory and risk requirements
     File: nodes-cluster-resource-configure
+- Name: Working with nodes
+  File: rosa-working-with-nodes
 - Name: Configuring PID limits
   File: rosa-configuring-pid-limits
 ---
