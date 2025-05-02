@@ -233,4 +233,4 @@ applications and data hosted on the AWS Cloud.
 
 
 ^[2]^ For more information on pruning images, see xref:../../modules/pruning-images.adoc["Automatically Pruning Images"] in
-OpenShift image registry overview.
+{product-registry} image registry overview.
