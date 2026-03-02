@@ -1,0 +1,12 @@
+:_mod-docs-content-type: ASSEMBLY
+[id="rosa-govcloud-secure-configuration-guidance"]
+= Secure configuration guidance for {product-title} in AWS GovCloud
+[role="_abstract"]
+include::_attributes/attributes-openshift-dedicated.adoc[]
+:context: rosa-govcloud-secure-configuration-guidance
+
+toc::[]
+
+Text goes here
+
+include::modules/rosa-govcloud-secure-configuration-guide.adoc[leveloffset=+1]
